@@ -1,0 +1,17 @@
+E:\ASP\BCVP.NET8\BCVP.NET8.IService\bin\Debug\net8.0\BCVP.NET8.IService.deps.json
+E:\ASP\BCVP.NET8\BCVP.NET8.IService\bin\Debug\net8.0\BCVP.NET8.IService.dll
+E:\ASP\BCVP.NET8\BCVP.NET8.IService\bin\Debug\net8.0\BCVP.NET8.IService.pdb
+E:\ASP\BCVP.NET8\BCVP.NET8.IService\bin\Debug\net8.0\BCVP.NET8.Common.dll
+E:\ASP\BCVP.NET8\BCVP.NET8.IService\bin\Debug\net8.0\BCVP.NET8.Model.dll
+E:\ASP\BCVP.NET8\BCVP.NET8.IService\bin\Debug\net8.0\BCVP.NET8.Model.pdb
+E:\ASP\BCVP.NET8\BCVP.NET8.IService\bin\Debug\net8.0\BCVP.NET8.Common.pdb
+E:\ASP\BCVP.NET8\BCVP.NET8.IService\obj\Debug\net8.0\BCVP.NET8.IService.csproj.AssemblyReference.cache
+E:\ASP\BCVP.NET8\BCVP.NET8.IService\obj\Debug\net8.0\BCVP.NET8.IService.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP\BCVP.NET8\BCVP.NET8.IService\obj\Debug\net8.0\BCVP.NET8.IService.AssemblyInfoInputs.cache
+E:\ASP\BCVP.NET8\BCVP.NET8.IService\obj\Debug\net8.0\BCVP.NET8.IService.AssemblyInfo.cs
+E:\ASP\BCVP.NET8\BCVP.NET8.IService\obj\Debug\net8.0\BCVP.NET8.IService.csproj.CoreCompileInputs.cache
+E:\ASP\BCVP.NET8\BCVP.NET8.IService\obj\Debug\net8.0\BCVP.NET.BAD80C3C.Up2Date
+E:\ASP\BCVP.NET8\BCVP.NET8.IService\obj\Debug\net8.0\BCVP.NET8.IService.dll
+E:\ASP\BCVP.NET8\BCVP.NET8.IService\obj\Debug\net8.0\refint\BCVP.NET8.IService.dll
+E:\ASP\BCVP.NET8\BCVP.NET8.IService\obj\Debug\net8.0\BCVP.NET8.IService.pdb
+E:\ASP\BCVP.NET8\BCVP.NET8.IService\obj\Debug\net8.0\ref\BCVP.NET8.IService.dll

@@ -1,0 +1,15 @@
+E:\ASP\BCVP.NET8\BCVP.NET8.Model\bin\Debug\net8.0\BCVP.NET8.Model.deps.json
+E:\ASP\BCVP.NET8\BCVP.NET8.Model\bin\Debug\net8.0\BCVP.NET8.Model.dll
+E:\ASP\BCVP.NET8\BCVP.NET8.Model\bin\Debug\net8.0\BCVP.NET8.Model.pdb
+E:\ASP\BCVP.NET8\BCVP.NET8.Model\bin\Debug\net8.0\BCVP.NET8.Common.dll
+E:\ASP\BCVP.NET8\BCVP.NET8.Model\bin\Debug\net8.0\BCVP.NET8.Common.pdb
+E:\ASP\BCVP.NET8\BCVP.NET8.Model\obj\Debug\net8.0\BCVP.NET8.Model.csproj.AssemblyReference.cache
+E:\ASP\BCVP.NET8\BCVP.NET8.Model\obj\Debug\net8.0\BCVP.NET8.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP\BCVP.NET8\BCVP.NET8.Model\obj\Debug\net8.0\BCVP.NET8.Model.AssemblyInfoInputs.cache
+E:\ASP\BCVP.NET8\BCVP.NET8.Model\obj\Debug\net8.0\BCVP.NET8.Model.AssemblyInfo.cs
+E:\ASP\BCVP.NET8\BCVP.NET8.Model\obj\Debug\net8.0\BCVP.NET8.Model.csproj.CoreCompileInputs.cache
+E:\ASP\BCVP.NET8\BCVP.NET8.Model\obj\Debug\net8.0\BCVP.NET.C2EA1C40.Up2Date
+E:\ASP\BCVP.NET8\BCVP.NET8.Model\obj\Debug\net8.0\BCVP.NET8.Model.dll
+E:\ASP\BCVP.NET8\BCVP.NET8.Model\obj\Debug\net8.0\refint\BCVP.NET8.Model.dll
+E:\ASP\BCVP.NET8\BCVP.NET8.Model\obj\Debug\net8.0\BCVP.NET8.Model.pdb
+E:\ASP\BCVP.NET8\BCVP.NET8.Model\obj\Debug\net8.0\ref\BCVP.NET8.Model.dll

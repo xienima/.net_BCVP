@@ -1,0 +1,12 @@
+E:\ASP\BCVP.NET8\BCVP.NET8.Common\bin\Debug\net8.0\BCVP.NET8.Common.deps.json
+E:\ASP\BCVP.NET8\BCVP.NET8.Common\bin\Debug\net8.0\BCVP.NET8.Common.dll
+E:\ASP\BCVP.NET8\BCVP.NET8.Common\bin\Debug\net8.0\BCVP.NET8.Common.pdb
+E:\ASP\BCVP.NET8\BCVP.NET8.Common\obj\Debug\net8.0\BCVP.NET8.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP\BCVP.NET8\BCVP.NET8.Common\obj\Debug\net8.0\BCVP.NET8.Common.AssemblyInfoInputs.cache
+E:\ASP\BCVP.NET8\BCVP.NET8.Common\obj\Debug\net8.0\BCVP.NET8.Common.AssemblyInfo.cs
+E:\ASP\BCVP.NET8\BCVP.NET8.Common\obj\Debug\net8.0\BCVP.NET8.Common.csproj.CoreCompileInputs.cache
+E:\ASP\BCVP.NET8\BCVP.NET8.Common\obj\Debug\net8.0\BCVP.NET8.Common.dll
+E:\ASP\BCVP.NET8\BCVP.NET8.Common\obj\Debug\net8.0\refint\BCVP.NET8.Common.dll
+E:\ASP\BCVP.NET8\BCVP.NET8.Common\obj\Debug\net8.0\BCVP.NET8.Common.pdb
+E:\ASP\BCVP.NET8\BCVP.NET8.Common\obj\Debug\net8.0\ref\BCVP.NET8.Common.dll
+E:\ASP\BCVP.NET8\BCVP.NET8.Common\obj\Debug\net8.0\BCVP.NET8.Common.csproj.AssemblyReference.cache
